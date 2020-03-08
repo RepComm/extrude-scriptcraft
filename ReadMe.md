@@ -30,16 +30,12 @@ Modes:
 
 Example Steps:
 1. Switch mode to `Add Block`
-<br/>
   Click some blocks
 3. Switch mode to `Axis`
-<br/>
   Set axis (Y is up)
 4. Switch mode to `Extrude`
-<br/>
-Click to toggle `ON`
-<br/>
-Walk in direction of Axis how many blocks you want to extrude in
-<br/>
-Click to `FINISH`
+  Click to toggle `ON`<br>
+  Walk in direction of Axis how many blocks<br>
+  you want to extrude in<br>
+  Click to `FINISH`
 5. Profit
